@@ -52,19 +52,6 @@ div#l1 button {
     display: none
 }
 
-a.btn.minix.fa.fa-times.fr {
-    color: #d36488!important;
-    border-radius: 4px;
-    padding: 1px 4px 2px 5px;
-    margin-top: 6px;
-    background-repeat: repeat-x;
-    border-color: #fff!important;
-    background-image: linear-gradient(to bottom,#f8f9fa 0,#dee2e6 100%)!important;
-    margin-left: 1px;
-    width: 13px;
-    margin-right: 2px
-}
-
 span.minix.badge.border,span.bwall.minix.badge.border,span.brooms.minix.badge.border {
 }
 
@@ -425,13 +412,6 @@ a.btn.minix.fa.fa-thumbs-up.fr {
     margin-left: 3px
 }
 
-a.btn.minix.fa.fa-times.fr,a.btn.minix.fa.fa-thumbs-up.fr,a.btn.minix.fa.fa-comment.fr {
-    border-left: 1px solid #d3d3d3;
-    border-top: 1px solid #d3d3d3;
-    border-right: 1px solid #a6a6a6;
-    border-bottom: 1px solid #a6a6a6;
-    border-radius: 3px
-}
 
 .fa-save:before,.fa-floppy-o:before {
     margin-right: 1px;
@@ -1234,18 +1214,6 @@ div#l1 button {
     display: none
 }
 
-a.btn.minix.fa.fa-times.fr {
-    color: #d36488!important;
-    border-radius: 4px;
-    padding: 1px 4px 2px 5px;
-    margin-top: 6px;
-    background-repeat: repeat-x;
-    border-color: #fff!important;
-    background-image: linear-gradient(to bottom,#f8f9fa 0,#dee2e6 100%)!important;
-    margin-left: 1px;
-    width: 13px;
-    margin-right: 2px
-}
 
 span.minix.badge.border,span.bwall.minix.badge.border,span.brooms.minix.badge.border {
 }
@@ -1607,13 +1575,7 @@ a.btn.minix.fa.fa-thumbs-up.fr {
     margin-left: 3px
 }
 
-a.btn.minix.fa.fa-times.fr,a.btn.minix.fa.fa-thumbs-up.fr,a.btn.minix.fa.fa-comment.fr {
-    border-left: 1px solid #d3d3d3;
-    border-top: 1px solid #d3d3d3;
-    border-right: 1px solid #a6a6a6;
-    border-bottom: 1px solid #a6a6a6;
-    border-radius: 3px
-}
+
 
 .fa-save:before,.fa-floppy-o:before {
     margin-right: 1px;
@@ -1898,8 +1860,8 @@ div#tlogins .fade {
 }
 
 .btn-primary {
-    border-color: #ffffff!important;
-    border-radius: 20px!important
+    /* border-color: #ffffff!important; */
+    border-radius: 20px!important;
 }
 
 .des2 {
@@ -2361,5 +2323,5 @@ label.fl.label.loginstat {
 }
 
 .bg {
-    background: linear-gradient(90deg,#F5749E 0,#B95777 10%,#8E435B 51%,#B95777 89%,#F5749E 100%);
-        }
+    background: linear-gradient(45deg,#009cbd 0,#009cbd 50%,#991bf3 51%,#991bf3 89%,#991bf3 100%);
+    }
